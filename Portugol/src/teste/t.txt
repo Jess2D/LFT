@@ -1,0 +1,16 @@
+programa teste
+/*declaração de variáveis*/ 
+nota1,nota2,nota3, media: numerico 
+escreva "digite a nota 1" 
+leia(nota1) 
+escreva "digite a nota 2" 
+leia(nota2) 
+escreva "digite a nota 3" 
+leia(nota3) 
+se (nota1 > nota2)
+escreva "maior: nota 1"
+fim se
+fim.
+
+
+
